@@ -1,5 +1,5 @@
-# codeigniter-email-configuration-via-database
-email configuration via database and sending with codeigniter
+# codeigniter-email-configuration-via-database<br>
+email configuration via database and sending with codeigniter<br>
 
 A simple method and dynamic of email configuration parameters:<br>
 1 create the table in your db with sql file;<br>
